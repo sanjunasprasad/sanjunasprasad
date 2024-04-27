@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjunasprasad
+- 👋 Hi, I’m SANJUNA S PRASAD
 - 👀 I’m interested in web development and building interactive user interfaces.
 - 🌱 I’m currently learning 
 - 📫 How to reach me sanjunasprasad@gmail.com
