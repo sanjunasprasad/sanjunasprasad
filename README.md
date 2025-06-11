@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SANJUNA S PRASAD
 - 👀 I’m interested in web development and building interactive user interfaces.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me sanjunasprasad@gmail.com
 
   
